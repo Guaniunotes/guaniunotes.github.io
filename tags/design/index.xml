@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Shiuan</title>
+    <link>https://www.shiuan.xyz/tags/design/</link>
+    <description>Recent content in Design on Shiuan</description>
+    <image>
+      <title>Shiuan</title>
+      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 Mar 2024 09:01:13 +0800</lastBuildDate>
+    <atom:link href="https://www.shiuan.xyz/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一个标准的Landing page设计结构</title>
+      <link>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</link>
+      <pubDate>Sun, 31 Mar 2024 09:01:13 +0800</pubDate>
+      <guid>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</guid>
+      <description>给大家分享一个非常标准的Landing pages设计结构： 第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式</description>
+      <atom:encoded><![CDATA[<p>给大家分享一个非常标准的Landing pages设计结构：
+<img loading="lazy" src="/img/landingpagedemo.jpeg" alt=""  />
+</p>
+<p>第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式。 把我们是作什么的，怎么做，怎么联系作为重点，让客户在第一屏就能全部阅读完。</p>
+<p>第二部分，放上合作过的品牌LOGO，富有吸引力的标题，服务特色简介。</p>
+<p>第三部分，高质量的客户评价。</p>
+<p>第四部分，产品价格，用户权益。</p>
+<p>第五部分，工作流程说明。 -</p>
+<p>第六部分，常见问题解答，同时也是消除客户下单疑虑的方法。</p>
+<p>第七部分，放上博客文章链接，增强SEO。</p>
+<p>最后，再次放上联系方式按钮。</p>
+<p>这时一般能看到最后的人，离目标客户已经不远了，不应该用“返回”按钮让他们回到页面顶部，而是将顶部的按钮复制下来，随手就能点到。</p>
+<p>以上就是我认为一个标准的Landing Pages应该具备的内容框架设计。</p>
+]]></atom:encoded>
+    </item>
+  </channel>
+</rss>

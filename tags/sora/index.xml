@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sora on Shiuan</title>
+    <link>https://www.shiuan.xyz/tags/sora/</link>
+    <description>Recent content in Sora on Shiuan</description>
+    <image>
+      <title>Shiuan</title>
+      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 16 Feb 2024 11:51:37 +0800</lastBuildDate>
+    <atom:link href="https://www.shiuan.xyz/tags/sora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sora: 作为世界模拟器的视频生成模型</title>
+      <link>https://www.shiuan.xyz/posts/openai-sora-creating-video/</link>
+      <pubDate>Fri, 16 Feb 2024 11:51:37 +0800</pubDate>
+      <guid>https://www.shiuan.xyz/posts/openai-sora-creating-video/</guid>
+      <description>OpenAI于2024年2月15日发布视频生成大模型Sora，它是一种通用的视觉数据模型，可以生成跨越不同持续时间、纵横比和分辨率的视频和图像，最多可生成一整分钟的高清视频。</description>
+      <atom:encoded><![CDATA[<blockquote>
+<p>佛说，色即是空，空即是色。</p>
+</blockquote>
+<p>Open AI将他们训练的目前最大的模型取名为“Sora”（日语“天空”），就像是给普通人开启创建虚拟世界的一支“神笔”。</p>
+<p>关于Sora模型的研究论文<a href="https://openai.com/research/video-generation-models-as-world-simulators">链接🔗</a></p>
+<h2 id="sora的基本功能">Sora的基本功能</h2>
+<ol>
+<li>通过一张静态图片和提示词就可以生成视频。</li>
+<li>可以向前或向后扩展视频，以产生无缝的无限循环。</li>
+<li>进行视频到视频的编辑，Sora作为扩撒模型实现了多种从文本提示中编辑图像和视频的方法，能够零镜头转换输入视频的风格和环境。</li>
+<li>可以连接视频，在具有完全不同主题和场景构图的视频之间创建无缝过渡。</li>
+<li>可以生成图片，分辨率高达 2048x2048。</li>
+</ol>
+<h2 id="sora领先于其他视频生成模型的能力">Sora领先于其他视频生成模型的能力</h2>
+<ol>
+<li><strong>3D一致性。</strong> Sora可以生成具有动态相机运动的视频。随着摄像机的移动和旋转，人物和场景元素在三维空间中始终如一地移动。</li>
+<li><strong>远距离相干性和物体持久性。</strong> Sora可以保留人、动物和物体，即使它们被遮挡或离开框架。同样，它可以在单个样本中生成同一角色的多个镜头，从而在整个视频中保持它们的外观。</li>
+<li><strong>与世界互动。</strong> Sora有时可以以简单的方式模拟影响世界状态的动作。例如，画家可以在画布上留下新的笔触，这些笔触会随着时间的推移而持续存在，或者一个人可以吃汉堡并留下咬痕。</li>
+<li><strong>模拟数字世界。</strong> Sora还能够模拟人工过程，例如视频游戏。Sora 可以同时通过基本策略控制 Minecraft 中的玩家，同时还可以高保真地渲染世界及其动态。</li>
+</ol>
+<h2 id="sora的局限性">Sora的局限性</h2>
+<p>Sora 目前作为模拟器表现出许多局限性。例如，它不能准确地模拟许多基本相互作用的物理特性，比如玻璃破碎。其他交互，如吃食物，并不总是能产生物体状态的正确变化。例如在长时间样本中出现的不连贯性或物体的自发出现。</p>
+<p>Sora今天所拥有的能力表明，视频模型的持续扩展是一条有前途的道路，可以开发物理和数字世界以及生活在其中的物体、动物和人的模拟器。</p>
+]]></atom:encoded>
+    </item>
+  </channel>
+</rss>
