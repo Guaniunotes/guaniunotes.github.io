@@ -1,4 +1,4 @@
-baseURL: "https://www.shiuan.xyz"
+baseURL: "https://guaniunotes.github.io/"
 languageCode: "zh-cn"
 title: "Shiuan"
 theme: PaperMod
@@ -91,12 +91,9 @@ params:
       url: "https://github.com/"
 
   analytics:
-   # google:
-   #  SiteVerificationTag: "G-KQLC070TT8"
-   # bing:
-   #   SiteVerificationTag: "XYZabc"
-   # yandex:
-   #   SiteVerificationTag: "XYZabc"
+    google:
+     SiteVerificationTag: "G-KQLC070TT8"
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
