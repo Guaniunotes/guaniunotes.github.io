@@ -1,0 +1,151 @@
+baseURL: "https://www.shiuan.xyz"
+languageCode: "zh-cn"
+title: "Shiuan"
+theme: PaperMod
+
+hasCJKLanguage: true
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+googleAnalytics: G-KQLC070TT8
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Shiuan
+  description: "All about Shiuan thinking,learning,reading..."
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Shiuan
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  TocSide: 'right'  # or 'right'
+
+  ShowFullTextinRSS: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "logo.svg"
+    favicon16x16: "logo.svg"
+    favicon32x32: "logo.svg"
+    apple_touch_icon: "logo.svg"
+    safari_pinned_tab: "logo.svg"
+
+  label:
+    text: "Shiuan"
+    icon: "logo.svg"
+    iconHeight: 35
+    iconWidth: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Shiuan
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello, internet! \U0001F44B"
+    Content: I‘m Shiuan. I'll share with you what I'm interested in, what I know, what I've learned.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/guaniuzz"
+    - name: rss
+      url: "index.xml"
+    - name: kofi
+      url: "https://github.com/"
+
+  analytics:
+   # google:
+   #  SiteVerificationTag: "G-KQLC070TT8"
+   # bing:
+   #   SiteVerificationTag: "XYZabc"
+   # yandex:
+   #   SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+    responsiveImages: false
+
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]      
+
+menu:
+  main:
+    - identifier: Archive
+      name: archives
+      url: archives
+      weight: 5
+    - identifier: Search
+      name: search
+      url: search/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+buildfuture: true
