@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sora on Shiuan</title>
-    <link>https://www.shiuan.xyz/tags/sora/</link>
+    <link>https://guaniunotes.github.io/tags/sora/</link>
     <description>Recent content in Sora on Shiuan</description>
     <image>
       <title>Shiuan</title>
-      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 16 Feb 2024 11:51:37 +0800</lastBuildDate>
-    <atom:link href="https://www.shiuan.xyz/tags/sora/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guaniunotes.github.io/tags/sora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sora: 作为世界模拟器的视频生成模型</title>
-      <link>https://www.shiuan.xyz/posts/openai-sora-creating-video/</link>
+      <link>https://guaniunotes.github.io/posts/openai-sora-creating-video/</link>
       <pubDate>Fri, 16 Feb 2024 11:51:37 +0800</pubDate>
-      <guid>https://www.shiuan.xyz/posts/openai-sora-creating-video/</guid>
+      <guid>https://guaniunotes.github.io/posts/openai-sora-creating-video/</guid>
       <description>OpenAI于2024年2月15日发布视频生成大模型Sora，它是一种通用的视觉数据模型，可以生成跨越不同持续时间、纵横比和分辨率的视频和图像，最多可生成一整分钟的高清视频。</description>
       <atom:encoded><![CDATA[<blockquote>
 <p>佛说，色即是空，空即是色。</p>

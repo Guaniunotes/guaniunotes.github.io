@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rethinking on Shiuan</title>
-    <link>https://www.shiuan.xyz/tags/rethinking/</link>
+    <link>https://guaniunotes.github.io/tags/rethinking/</link>
     <description>Recent content in rethinking on Shiuan</description>
     <image>
       <title>Shiuan</title>
-      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.shiuan.xyz/tags/rethinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guaniunotes.github.io/tags/rethinking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么每个人都想有自己的小生意</title>
-      <link>https://www.shiuan.xyz/posts/small-business/</link>
+      <link>https://guaniunotes.github.io/posts/small-business/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/small-business/</guid>
+      <guid>https://guaniunotes.github.io/posts/small-business/</guid>
       <description>看到@xqliu在推特上提出了一个问题： 为什么今年独立开发忽然开始火起来，每个人都想要有自己的小生意？ 我认为想拥有小生意这种想法很多人老早就</description>
       <atom:encoded><![CDATA[<p>看到<a href="https://twitter.com/xqliu/status/1749689165330219344">@xqliu</a>在推特上提出了一个问题：</p>
 <blockquote>
@@ -30,9 +30,9 @@
     </item>
     <item>
       <title>写作</title>
-      <link>https://www.shiuan.xyz/posts/2023-02-13/</link>
+      <link>https://guaniunotes.github.io/posts/2023-02-13/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/2023-02-13/</guid>
+      <guid>https://guaniunotes.github.io/posts/2023-02-13/</guid>
       <description>记住今天要写作。 写作是一个有意识的自我创造的机会。</description>
       <atom:encoded><![CDATA[<p>记住今天要写作。</p>
 <p>写作是一个有意识的自我创造的机会。</p>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>同类</title>
-      <link>https://www.shiuan.xyz/posts/2023-01-12/</link>
+      <link>https://guaniunotes.github.io/posts/2023-01-12/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/2023-01-12/</guid>
+      <guid>https://guaniunotes.github.io/posts/2023-01-12/</guid>
       <description>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人</description>
       <atom:encoded><![CDATA[<p>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人。</p>
 <p>反过来看，我喜欢的内容，一定会在某个地方有同类人喜欢。</p>

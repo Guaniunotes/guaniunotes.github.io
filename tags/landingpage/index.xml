@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>landingpage on Shiuan</title>
-    <link>https://www.shiuan.xyz/tags/landingpage/</link>
+    <link>https://guaniunotes.github.io/tags/landingpage/</link>
     <description>Recent content in landingpage on Shiuan</description>
     <image>
       <title>Shiuan</title>
-      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 31 Mar 2024 09:01:13 +0800</lastBuildDate>
-    <atom:link href="https://www.shiuan.xyz/tags/landingpage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guaniunotes.github.io/tags/landingpage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一个标准的Landing page设计结构</title>
-      <link>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</link>
+      <link>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</link>
       <pubDate>Sun, 31 Mar 2024 09:01:13 +0800</pubDate>
-      <guid>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</guid>
+      <guid>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</guid>
       <description>给大家分享一个非常标准的Landing pages设计结构： 第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式</description>
       <atom:encoded><![CDATA[<p>给大家分享一个非常标准的Landing pages设计结构：
 <img loading="lazy" src="/img/landingpagedemo.jpeg" alt=""  />
