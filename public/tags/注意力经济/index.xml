@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>注意力经济 on Shiuan</title>
-    <link>https://www.shiuan.xyz/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/</link>
+    <link>https://guaniunotes.github.io/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/</link>
     <description>Recent content in 注意力经济 on Shiuan</description>
     <image>
       <title>Shiuan</title>
-      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.shiuan.xyz/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guaniunotes.github.io/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>给信息丰富的世界设计组织(中文)</title>
-      <link>https://www.shiuan.xyz/posts/designing-for-information-rich-world/</link>
+      <link>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/designing-for-information-rich-world/</guid>
+      <guid>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</guid>
       <description>在一个信息丰富的世界中，信息的丰富意味着缺乏其他东西：信息消费的任何东西的稀缺。信息消耗的东西是相当明显的：它消耗了接收者的注意力。因此，丰富的信息造成了注意力的匮乏，需要将这种注意力有效地分配给可能消耗信息的过多信息来源。</description>
       <atom:encoded><![CDATA[<h2 id="引言">引言</h2>
 <blockquote>

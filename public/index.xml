@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shiuan</title>
-    <link>https://www.shiuan.xyz/</link>
+    <link>https://guaniunotes.github.io/</link>
     <description>Recent content on Shiuan</description>
     <image>
       <title>Shiuan</title>
-      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 31 Mar 2024 09:01:13 +0800</lastBuildDate>
-    <atom:link href="https://www.shiuan.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guaniunotes.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一个标准的Landing page设计结构</title>
-      <link>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</link>
+      <link>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</link>
       <pubDate>Sun, 31 Mar 2024 09:01:13 +0800</pubDate>
-      <guid>https://www.shiuan.xyz/posts/a_standard_landing_page_structure/</guid>
+      <guid>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</guid>
       <description>给大家分享一个非常标准的Landing pages设计结构： 第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式</description>
       <atom:encoded><![CDATA[<p>给大家分享一个非常标准的Landing pages设计结构：
 <img loading="lazy" src="/img/landingpagedemo.jpeg" alt=""  />
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>Sora: 作为世界模拟器的视频生成模型</title>
-      <link>https://www.shiuan.xyz/posts/openai-sora-creating-video/</link>
+      <link>https://guaniunotes.github.io/posts/openai-sora-creating-video/</link>
       <pubDate>Fri, 16 Feb 2024 11:51:37 +0800</pubDate>
-      <guid>https://www.shiuan.xyz/posts/openai-sora-creating-video/</guid>
+      <guid>https://guaniunotes.github.io/posts/openai-sora-creating-video/</guid>
       <description>OpenAI于2024年2月15日发布视频生成大模型Sora，它是一种通用的视觉数据模型，可以生成跨越不同持续时间、纵横比和分辨率的视频和图像，最多可生成一整分钟的高清视频。</description>
       <atom:encoded><![CDATA[<blockquote>
 <p>佛说，色即是空，空即是色。</p>
@@ -67,9 +67,9 @@
     </item>
     <item>
       <title>为什么每个人都想有自己的小生意</title>
-      <link>https://www.shiuan.xyz/posts/small-business/</link>
+      <link>https://guaniunotes.github.io/posts/small-business/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/small-business/</guid>
+      <guid>https://guaniunotes.github.io/posts/small-business/</guid>
       <description>看到@xqliu在推特上提出了一个问题： 为什么今年独立开发忽然开始火起来，每个人都想要有自己的小生意？ 我认为想拥有小生意这种想法很多人老早就</description>
       <atom:encoded><![CDATA[<p>看到<a href="https://twitter.com/xqliu/status/1749689165330219344">@xqliu</a>在推特上提出了一个问题：</p>
 <blockquote>
@@ -82,9 +82,9 @@
     </item>
     <item>
       <title>PaperMod正确显示中文字数统计</title>
-      <link>https://www.shiuan.xyz/posts/papermod-wordcount/</link>
+      <link>https://guaniunotes.github.io/posts/papermod-wordcount/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/papermod-wordcount/</guid>
+      <guid>https://guaniunotes.github.io/posts/papermod-wordcount/</guid>
       <description>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。 发现Hugo本身有个配置hascjklanguage是支持中文/日文</description>
       <atom:encoded><![CDATA[<p>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。<br>
 发现Hugo本身有个配置<a href="https://gohugo.io/getting-started/configuration/#hascjklanguage">hascjklanguage</a>是支持中文/日文/韩文内容显示，但默认状态下为false。因此只需在你的config.yml文件添加<strong>hasCJKLanguage: true</strong>，即可对文章中文进行统计，字数统计数值此时显示正常。</p>
@@ -95,9 +95,9 @@
     </item>
     <item>
       <title>YC联合创始人对初创公司在早期阶段的建议</title>
-      <link>https://www.shiuan.xyz/posts/startups-the-very-beginning/</link>
+      <link>https://guaniunotes.github.io/posts/startups-the-very-beginning/</link>
       <pubDate>Mon, 08 Jan 2024 21:34:13 +0800</pubDate>
-      <guid>https://www.shiuan.xyz/posts/startups-the-very-beginning/</guid>
+      <guid>https://guaniunotes.github.io/posts/startups-the-very-beginning/</guid>
       <description>创始人最重要的3个品质分别为决心、领域专业知识、销售能力</description>
       <atom:encoded><![CDATA[<p>这是Y Combinator联合创始人<strong>Jessica Livingston</strong>(杰西卡·利文斯顿)，在2020年面向女性的未来创始人大会上演讲内容的一些总结。<a href="https://foundersatwork.posthaven.com/startups-the-very-beginning">原文链接</a></p>
 <h3 id="1-你要非常谨慎地选择联合创始人">1. 你要非常谨慎地选择联合创始人。</h3>
@@ -128,9 +128,9 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://www.shiuan.xyz/about/</link>
+      <link>https://guaniunotes.github.io/about/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/about/</guid>
+      <guid>https://guaniunotes.github.io/about/</guid>
       <description>about</description>
       <atom:encoded><![CDATA[<p>璇Shiuan<br>
 双鱼座<br>
@@ -142,9 +142,9 @@
     </item>
     <item>
       <title>给信息丰富的世界设计组织(中文)</title>
-      <link>https://www.shiuan.xyz/posts/designing-for-information-rich-world/</link>
+      <link>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/designing-for-information-rich-world/</guid>
+      <guid>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</guid>
       <description>在一个信息丰富的世界中，信息的丰富意味着缺乏其他东西：信息消费的任何东西的稀缺。信息消耗的东西是相当明显的：它消耗了接收者的注意力。因此，丰富的信息造成了注意力的匮乏，需要将这种注意力有效地分配给可能消耗信息的过多信息来源。</description>
       <atom:encoded><![CDATA[<h2 id="引言">引言</h2>
 <blockquote>
@@ -502,9 +502,9 @@ Baltimore, MD: Johns Hopkins University Press. 1971: 37–52
     </item>
     <item>
       <title>写作</title>
-      <link>https://www.shiuan.xyz/posts/2023-02-13/</link>
+      <link>https://guaniunotes.github.io/posts/2023-02-13/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/2023-02-13/</guid>
+      <guid>https://guaniunotes.github.io/posts/2023-02-13/</guid>
       <description>记住今天要写作。 写作是一个有意识的自我创造的机会。</description>
       <atom:encoded><![CDATA[<p>记住今天要写作。</p>
 <p>写作是一个有意识的自我创造的机会。</p>
@@ -512,9 +512,9 @@ Baltimore, MD: Johns Hopkins University Press. 1971: 37–52
     </item>
     <item>
       <title>同类</title>
-      <link>https://www.shiuan.xyz/posts/2023-01-12/</link>
+      <link>https://guaniunotes.github.io/posts/2023-01-12/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.shiuan.xyz/posts/2023-01-12/</guid>
+      <guid>https://guaniunotes.github.io/posts/2023-01-12/</guid>
       <description>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人</description>
       <atom:encoded><![CDATA[<p>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人。</p>
 <p>反过来看，我喜欢的内容，一定会在某个地方有同类人喜欢。</p>
