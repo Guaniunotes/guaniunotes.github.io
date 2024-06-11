@@ -1,6 +1,6 @@
 baseURL: "https://guaniunotes.github.io/"
 languageCode: "zh-cn"
-title: "Shiuan"
+title: "蜗牛笔记"
 theme: PaperMod
 
 hasCJKLanguage: true
@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Shiuan
+  title: 蜗牛笔记
   description: "All about Shiuan thinking,learning,reading..."
   keywords: [Blog, Portfolio, PaperMod]
   author: Shiuan
