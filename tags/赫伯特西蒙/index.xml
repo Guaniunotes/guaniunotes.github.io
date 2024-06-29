@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 蜗牛笔记</title>
-    <link>https://guaniunotes.github.io/posts/</link>
-    <description>Recent content in Posts on 蜗牛笔记</description>
+    <title>赫伯特·西蒙 on 蜗牛笔记</title>
+    <link>https://guaniunotes.github.io/tags/%E8%B5%AB%E4%BC%AF%E7%89%B9%E8%A5%BF%E8%92%99/</link>
+    <description>Recent content in 赫伯特·西蒙 on 蜗牛笔记</description>
     <image>
       <title>蜗牛笔记</title>
       <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,138 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Jun 2024 14:56:18 +0800</lastBuildDate>
-    <atom:link href="https://guaniunotes.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>37signals对于服务远程客户的建议</title>
-      <link>https://guaniunotes.github.io/posts/tips_for_working_with_remote_clients/</link>
-      <pubDate>Sat, 29 Jun 2024 14:56:18 +0800</pubDate>
-      <guid>https://guaniunotes.github.io/posts/tips_for_working_with_remote_clients/</guid>
-      <description>37signals团队（ 创建了著名的Ruby on Rails 框架）这家成立于1999年，专注于ToB领域的软件公司，对于服务远程客户的一些建议，我觉得同</description>
-      <atom:encoded><![CDATA[<p>37signals团队（ 创建了著名的Ruby on Rails 框架）这家成立于1999年，专注于ToB领域的软件公司，对于服务远程客户的一些建议，我觉得同样适用于独立开发者。</p>
-<h3 id="1-在客户提出要求之前提供参考资料">1. 在客户提出要求之前提供参考资料。</h3>
-<p>直接表明你没有什么可隐瞒的。信任是初期最难建立的东西，因此要让客户尽可能容易地了解你的人品，让他们与其他客户交谈&ndash;尤其是可能远道而来的其他客户。</p>
-<h3 id="2-经常向他们展示工作">2. 经常向他们展示工作。</h3>
-<p>这是消除客户自然情景焦虑的最好方法。听着，他们为你的作品付了一大笔钱，从他们把定金打给你的那一刻起，他们开始感到焦虑是完全正常的。所以，让他们看看他们付出了什么。当他们看到你的成果时，他们会对双方的关系感觉好很多。</p>
-<h3 id="3-随叫随到">3. 随叫随到。</h3>
-<p>由于无法面对面交流，你最好能回复电话、电子邮件、即时信息等。这是最基本的商务要求，但在远程工作时，这一点显得更加重要。这可能是不合理的，但如果你是本地人，客户往往会觉得，如果情况更糟，他们可以敲你的门。他们 &ldquo;知道你住在哪里&rdquo;。但如果你是远程办公，当电话无人接听或电子邮件不断 &ldquo;丢失 &ldquo;时，他们就会更加怀疑。保持通讯畅通，你会收获很多。</p>
-<h3 id="4-让客户参与进来让他们跟着一起做">4. 让客户参与进来，让他们跟着一起做。</h3>
-<p>确保他们觉得这也是他们的项目。是的，他们雇用你是看中了你的专业知识，但他们自己也有很多专业知识。在网上建立一个空间，您可以使用共享日程表，向他们展示正在进行的工作，征求他们的反馈意见，听取他们的建议，给他们分配一些任务（或者让他们给您分配一些任务）。当他们感到自己是项目的一部分时，他们的焦虑和恐惧就会被兴奋和期待所取代。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>一个标准的Landing page设计结构</title>
-      <link>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</link>
-      <pubDate>Sun, 31 Mar 2024 09:01:13 +0800</pubDate>
-      <guid>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</guid>
-      <description>给大家分享一个非常标准的Landing pages设计结构： 第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式</description>
-      <atom:encoded><![CDATA[<p>给大家分享一个非常标准的Landing pages设计结构：
-<img loading="lazy" src="/img/landingpagedemo.jpeg" alt=""  />
-</p>
-<p>第一部分，首屏只有三个内容：导航栏，CTA（Call To Action）引导，联系方式。 把我们是作什么的，怎么做，怎么联系作为重点，让客户在第一屏就能全部阅读完。</p>
-<p>第二部分，放上合作过的品牌LOGO，富有吸引力的标题，服务特色简介。</p>
-<p>第三部分，高质量的客户评价。</p>
-<p>第四部分，产品价格，用户权益。</p>
-<p>第五部分，工作流程说明。 -</p>
-<p>第六部分，常见问题解答，同时也是消除客户下单疑虑的方法。</p>
-<p>第七部分，放上博客文章链接，增强SEO。</p>
-<p>最后，再次放上联系方式按钮。</p>
-<p>这时一般能看到最后的人，离目标客户已经不远了，不应该用“返回”按钮让他们回到页面顶部，而是将顶部的按钮复制下来，随手就能点到。</p>
-<p>以上就是我认为一个标准的Landing Pages应该具备的内容框架设计。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>Sora: 作为世界模拟器的视频生成模型</title>
-      <link>https://guaniunotes.github.io/posts/openai-sora-creating-video/</link>
-      <pubDate>Fri, 16 Feb 2024 11:51:37 +0800</pubDate>
-      <guid>https://guaniunotes.github.io/posts/openai-sora-creating-video/</guid>
-      <description>OpenAI于2024年2月15日发布视频生成大模型Sora，它是一种通用的视觉数据模型，可以生成跨越不同持续时间、纵横比和分辨率的视频和图像，最多可生成一整分钟的高清视频。</description>
-      <atom:encoded><![CDATA[<blockquote>
-<p>佛说，色即是空，空即是色。</p>
-</blockquote>
-<p>Open AI将他们训练的目前最大的模型取名为“Sora”（日语“天空”），就像是给普通人开启创建虚拟世界的一支“神笔”。</p>
-<p>关于Sora模型的研究论文<a href="https://openai.com/research/video-generation-models-as-world-simulators">链接🔗</a></p>
-<h2 id="sora的基本功能">Sora的基本功能</h2>
-<ol>
-<li>通过一张静态图片和提示词就可以生成视频。</li>
-<li>可以向前或向后扩展视频，以产生无缝的无限循环。</li>
-<li>进行视频到视频的编辑，Sora作为扩撒模型实现了多种从文本提示中编辑图像和视频的方法，能够零镜头转换输入视频的风格和环境。</li>
-<li>可以连接视频，在具有完全不同主题和场景构图的视频之间创建无缝过渡。</li>
-<li>可以生成图片，分辨率高达 2048x2048。</li>
-</ol>
-<h2 id="sora领先于其他视频生成模型的能力">Sora领先于其他视频生成模型的能力</h2>
-<ol>
-<li><strong>3D一致性。</strong> Sora可以生成具有动态相机运动的视频。随着摄像机的移动和旋转，人物和场景元素在三维空间中始终如一地移动。</li>
-<li><strong>远距离相干性和物体持久性。</strong> Sora可以保留人、动物和物体，即使它们被遮挡或离开框架。同样，它可以在单个样本中生成同一角色的多个镜头，从而在整个视频中保持它们的外观。</li>
-<li><strong>与世界互动。</strong> Sora有时可以以简单的方式模拟影响世界状态的动作。例如，画家可以在画布上留下新的笔触，这些笔触会随着时间的推移而持续存在，或者一个人可以吃汉堡并留下咬痕。</li>
-<li><strong>模拟数字世界。</strong> Sora还能够模拟人工过程，例如视频游戏。Sora 可以同时通过基本策略控制 Minecraft 中的玩家，同时还可以高保真地渲染世界及其动态。</li>
-</ol>
-<h2 id="sora的局限性">Sora的局限性</h2>
-<p>Sora 目前作为模拟器表现出许多局限性。例如，它不能准确地模拟许多基本相互作用的物理特性，比如玻璃破碎。其他交互，如吃食物，并不总是能产生物体状态的正确变化。例如在长时间样本中出现的不连贯性或物体的自发出现。</p>
-<p>Sora今天所拥有的能力表明，视频模型的持续扩展是一条有前途的道路，可以开发物理和数字世界以及生活在其中的物体、动物和人的模拟器。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>为什么每个人都想有自己的小生意</title>
-      <link>https://guaniunotes.github.io/posts/small-business/</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/small-business/</guid>
-      <description>看到@xqliu在推特上提出了一个问题： 为什么今年独立开发忽然开始火起来，每个人都想要有自己的小生意？ 我认为想拥有小生意这种想法很多人老早就</description>
-      <atom:encoded><![CDATA[<p>看到<a href="https://twitter.com/xqliu/status/1749689165330219344">@xqliu</a>在推特上提出了一个问题：</p>
-<blockquote>
-<p>为什么今年独立开发忽然开始火起来，每个人都想要有自己的小生意？</p>
-</blockquote>
-<p>我认为想拥有小生意这种想法很多人老早就有，只是过去没有条件实现。</p>
-<p>过去，在互联网上做生意，普通人可以快速启动的项目基本上都是电子商务类，而对于数字产品则需要你有全面的开发和营销技能，就算是对程序员都存在较高的门槛。现在就不一样了，面对日益丰富的saas工具，普通人也能可以快速构建他的产品，启动自己的小生意。</p>
-<p>开发者渴望摆脱传统雇佣模式的束缚，追求更大的自由度。拥有自己的小生意，意味着能够自主决定工作时间，工作地点，项目选择，客户选择，可以平衡工作与生活。还有最重要的一点，即便存在收入不稳定等不利因素，但独立开发的所有收入归个人，这是对开启自己的小生意最大的诱惑。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>Hugo PaperMod主题中正确显示中文字数统计的方法</title>
-      <link>https://guaniunotes.github.io/posts/papermod-wordcount/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/papermod-wordcount/</guid>
-      <description>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。 发现Hugo本身有个配置hascjklanguage是支持中文/日文</description>
-      <atom:encoded><![CDATA[<p>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。<br>
-发现Hugo本身有个配置<a href="https://gohugo.io/getting-started/configuration/#hascjklanguage">hascjklanguage</a>是支持中文/日文/韩文内容显示，但默认状态下为false。因此只需在你的config.yml文件添加<strong>hasCJKLanguage: true</strong>，即可对文章中文进行统计，字数统计数值此时显示正常。</p>
-<p>在config.yml 添加以下内容：</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">languageCode</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;zh-cn&#34;</span><span class="w"> </span><span class="c"># 默认语言为中文</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">hasCJKLanguage</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w"> </span><span class="c"># 自动检测内容中的中文/日文/韩文</span><span class="w">
-</span></span></span></code></pre></div>]]></atom:encoded>
-    </item>
-    <item>
-      <title>YC联合创始人对初创公司在早期阶段的建议</title>
-      <link>https://guaniunotes.github.io/posts/startups-the-very-beginning/</link>
-      <pubDate>Mon, 08 Jan 2024 21:34:13 +0800</pubDate>
-      <guid>https://guaniunotes.github.io/posts/startups-the-very-beginning/</guid>
-      <description>创始人最重要的3个品质分别为决心、领域专业知识、销售能力</description>
-      <atom:encoded><![CDATA[<p>这是Y Combinator联合创始人<strong>Jessica Livingston</strong>(杰西卡·利文斯顿)，在2020年面向女性的未来创始人大会上演讲内容的一些总结。<a href="https://foundersatwork.posthaven.com/startups-the-very-beginning">原文链接</a></p>
-<h3 id="1-你要非常谨慎地选择联合创始人">1. 你要非常谨慎地选择联合创始人。</h3>
-<p>他们可能应该是你已经有很好关系的人：朋友、同学、同事、配偶。与您共事过并且您知道的人是有效且可靠的。也是一个与你有大致相同抱负和道德观的人。
-理想的联合创始人关系是有机的。你不应该说，“我有这个好主意，想开一家创业公司”，然后不得不四处寻找一个你不太了解的联合创始人。理想情况下，你们已经是朋友了，你们一起有了这个想法。</p>
-<h3 id="2-创始人最重要的3个品质">2. 创始人最重要的3个品质</h3>
-<p><strong>决心</strong><br>
-最重要的品质是决心。至少要有一位创始人要有非常坚定的决心，因为创业真的很难，需要很长时间。下定决心的一部分是能够承受拒绝。人们会认为你的想法很蹩脚，客户不会感兴趣，投资者会说不，记者不会在乎。他们也可能对此不客气。但你不能让拒绝让你气馁。这对很多人来说真的很难。</p>
-<p><strong>领域专业知识</strong><br>
-在创始团队中，您需要的第二件事是领域专业知识。至少有一位创始人应该是你所从事的工作的专家。这意味着如果你要创办一家软件创业公司，至少应该有一个创始人是程序员。你可以雇用程序员，但如果创始人自己至少知道如何编程，即使他们不擅长编程，你更有可能成功。</p>
-<p><strong>销售能力</strong><br>
-创始人的第三个品质是销售能力，或者至少是愿意。必须有人成为公司的代言人——将产品推销给客户，并将公司本身推销给投资者、媒体和潜在雇员。</p>
-<p>这是三个基本素质：决心、领域专业知识和销售能力。每个都应至少有一名创始人。如果你拥有这三个，理论上你可以单独行动。但即便如此，你也会发现有一个好的联合创始人更容易。</p>
-<h3 id="3-做出你自己想要的东西">3. 做出你自己想要的东西</h3>
-<p>确保你做出人们想要的东西的一个好方法是做出你自己想要的东西。这不是通往成功的唯一途径，但它是最安全的途径，也是最大的创业公司通常采取的途径。</p>
-<h3 id="4-让用户满意">4. 让用户满意</h3>
-<p>为自己做点什么只是一种启发式方法，可以指导你找到一个想法。在实际执行中，需要以用户为中心。你需要了解他们想要什么，并狂热地致力于让他们快乐。在创业的早期阶段，你保持在正确的道路上的方式是构建东西并与用户交谈。</p>
-<p>衡量满意的最佳数字是收入，这是对用户是否真正喜欢你所做的事情的一个非常好的测试。</p>
-<h3 id="5-花得越少越容易盈利">5. 花得越少，越容易盈利</h3>
-<p>低廉的费用为你赢得时间。而且你需要的时间比你想象的要多，即使你有一个好主意，你通常也需要至少几个月的时间来解决问题。一家初创公司将致力于一个真正的好主意，但花太多钱去做，钱用完了，就不得不关闭。</p>
-<h3 id="6-保持专注">6. 保持专注</h3>
-<p>最成功的创始人会狂热地专注于他们的产品和用户。你应该专注现在最重要的问题是什么，你打算如何解决它？这和在大公司任职不同，当你作为雇员，你在公司解决的通常是有效的问题，但不是目前最重要的问题。
-正如史蒂夫·乔布斯（Steve Jobs）的名言所说，专注就是说不。所以你选择不做什么和你选择做什么一样重要。</p>
-<h3 id="7-对女性创始人的建议">7. 对女性创始人的建议</h3>
-<p>不要担心自己是女性。创业公司创始人的模式不只有一种。不要让自己因为与媒体上呈现的形象不符而不敢创业。</p>
-<p>如果你能做出人们想要的东西，如果你能专注于取悦用户，并衡量你在收入上取悦他们的程度，那么你就可以创办一家初创公司。这是要求自己的标准，而不是你在媒体上看到的上市公司创始人。</p>
-]]></atom:encoded>
-    </item>
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://guaniunotes.github.io/tags/%E8%B5%AB%E4%BC%AF%E7%89%B9%E8%A5%BF%E8%92%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>给信息丰富的世界设计组织</title>
       <link>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</link>
