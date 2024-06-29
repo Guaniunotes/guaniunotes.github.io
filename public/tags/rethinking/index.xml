@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rethinking on Shiuan</title>
+    <title>rethinking on 蜗牛笔记</title>
     <link>https://guaniunotes.github.io/tags/rethinking/</link>
-    <description>Recent content in rethinking on Shiuan</description>
+    <description>Recent content in rethinking on 蜗牛笔记</description>
     <image>
-      <title>Shiuan</title>
+      <title>蜗牛笔记</title>
       <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -26,26 +26,6 @@
 <p>我认为想拥有小生意这种想法很多人老早就有，只是过去没有条件实现。</p>
 <p>过去，在互联网上做生意，普通人可以快速启动的项目基本上都是电子商务类，而对于数字产品则需要你有全面的开发和营销技能，就算是对程序员都存在较高的门槛。现在就不一样了，面对日益丰富的saas工具，普通人也能可以快速构建他的产品，启动自己的小生意。</p>
 <p>开发者渴望摆脱传统雇佣模式的束缚，追求更大的自由度。拥有自己的小生意，意味着能够自主决定工作时间，工作地点，项目选择，客户选择，可以平衡工作与生活。还有最重要的一点，即便存在收入不稳定等不利因素，但独立开发的所有收入归个人，这是对开启自己的小生意最大的诱惑。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>写作</title>
-      <link>https://guaniunotes.github.io/posts/2023-02-13/</link>
-      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/2023-02-13/</guid>
-      <description>记住今天要写作。 写作是一个有意识的自我创造的机会。</description>
-      <atom:encoded><![CDATA[<p>记住今天要写作。</p>
-<p>写作是一个有意识的自我创造的机会。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>同类</title>
-      <link>https://guaniunotes.github.io/posts/2023-01-12/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/2023-01-12/</guid>
-      <description>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人</description>
-      <atom:encoded><![CDATA[<p>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人。</p>
-<p>反过来看，我喜欢的内容，一定会在某个地方有同类人喜欢。</p>
 ]]></atom:encoded>
     </item>
   </channel>

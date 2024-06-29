@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shiuan</title>
+    <title>蜗牛笔记</title>
     <link>https://guaniunotes.github.io/</link>
-    <description>Recent content on Shiuan</description>
+    <description>Recent content on 蜗牛笔记</description>
     <image>
-      <title>Shiuan</title>
+      <title>蜗牛笔记</title>
       <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 Mar 2024 09:01:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 14:56:18 +0800</lastBuildDate>
     <atom:link href="https://guaniunotes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>37signals对于服务远程客户的建议</title>
+      <link>https://guaniunotes.github.io/posts/tips_for_working_with_remote_clients/</link>
+      <pubDate>Sat, 29 Jun 2024 14:56:18 +0800</pubDate>
+      <guid>https://guaniunotes.github.io/posts/tips_for_working_with_remote_clients/</guid>
+      <description>37signals团队（ 创建了著名的Ruby on Rails 框架）这家成立于1999年，专注于ToB领域的软件公司，对于服务远程客户的一些建议，我觉得同</description>
+      <atom:encoded><![CDATA[<p>37signals团队（ 创建了著名的Ruby on Rails 框架）这家成立于1999年，专注于ToB领域的软件公司，对于服务远程客户的一些建议，我觉得同样适用于独立开发者。</p>
+<h3 id="1-在客户提出要求之前提供参考资料">1. 在客户提出要求之前提供参考资料。</h3>
+<p>直接表明你没有什么可隐瞒的。信任是初期最难建立的东西，因此要让客户尽可能容易地了解你的人品，让他们与其他客户交谈&ndash;尤其是可能远道而来的其他客户。</p>
+<h3 id="2-经常向他们展示工作">2. 经常向他们展示工作。</h3>
+<p>这是消除客户自然情景焦虑的最好方法。听着，他们为你的作品付了一大笔钱，从他们把定金打给你的那一刻起，他们开始感到焦虑是完全正常的。所以，让他们看看他们付出了什么。当他们看到你的成果时，他们会对双方的关系感觉好很多。</p>
+<h3 id="3-随叫随到">3. 随叫随到。</h3>
+<p>由于无法面对面交流，你最好能回复电话、电子邮件、即时信息等。这是最基本的商务要求，但在远程工作时，这一点显得更加重要。这可能是不合理的，但如果你是本地人，客户往往会觉得，如果情况更糟，他们可以敲你的门。他们 &ldquo;知道你住在哪里&rdquo;。但如果你是远程办公，当电话无人接听或电子邮件不断 &ldquo;丢失 &ldquo;时，他们就会更加怀疑。保持通讯畅通，你会收获很多。</p>
+<h3 id="4-让客户参与进来让他们跟着一起做">4. 让客户参与进来，让他们跟着一起做。</h3>
+<p>确保他们觉得这也是他们的项目。是的，他们雇用你是看中了你的专业知识，但他们自己也有很多专业知识。在网上建立一个空间，您可以使用共享日程表，向他们展示正在进行的工作，征求他们的反馈意见，听取他们的建议，给他们分配一些任务（或者让他们给您分配一些任务）。当他们感到自己是项目的一部分时，他们的焦虑和恐惧就会被兴奋和期待所取代。</p>
+]]></atom:encoded>
+    </item>
     <item>
       <title>一个标准的Landing page设计结构</title>
       <link>https://guaniunotes.github.io/posts/a_standard_landing_page_structure/</link>
@@ -81,14 +98,14 @@
 ]]></atom:encoded>
     </item>
     <item>
-      <title>PaperMod正确显示中文字数统计</title>
+      <title>Hugo PaperMod主题中正确显示中文字数统计的方法</title>
       <link>https://guaniunotes.github.io/posts/papermod-wordcount/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://guaniunotes.github.io/posts/papermod-wordcount/</guid>
       <description>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。 发现Hugo本身有个配置hascjklanguage是支持中文/日文</description>
       <atom:encoded><![CDATA[<p>当配置完PaperMod主题后，发现文章在中文下显示的字数统计是错误的。<br>
 发现Hugo本身有个配置<a href="https://gohugo.io/getting-started/configuration/#hascjklanguage">hascjklanguage</a>是支持中文/日文/韩文内容显示，但默认状态下为false。因此只需在你的config.yml文件添加<strong>hasCJKLanguage: true</strong>，即可对文章中文进行统计，字数统计数值此时显示正常。</p>
-<p>config.yml 添加以下内容：</p>
+<p>在config.yml 添加以下内容：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">languageCode</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;zh-cn&#34;</span><span class="w"> </span><span class="c"># 默认语言为中文</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">hasCJKLanguage</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w"> </span><span class="c"># 自动检测内容中的中文/日文/韩文</span><span class="w">
 </span></span></span></code></pre></div>]]></atom:encoded>
@@ -141,7 +158,7 @@
 ]]></atom:encoded>
     </item>
     <item>
-      <title>给信息丰富的世界设计组织(中文)</title>
+      <title>给信息丰富的世界设计组织</title>
       <link>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</guid>
@@ -150,7 +167,7 @@
 <blockquote>
 <p>此论文收录于：M. Greenberger（编辑）中，计算机，通信和公共利益。Balt1-more，MD：约翰霍普金斯出版社，1971年。
 Baltimore, MD: Johns Hopkins University Press. 1971: 37–52
-作者：赫伯特·西蒙 Simon, Herbert A.</p>
+作者：赫伯特·西蒙 Herbert A. Simon.</p>
 </blockquote>
 <p>（1969年9月至1970年5月约翰霍普金斯大学和布鲁金斯学会在华盛顿联合举办了一系列专题讨论会）</p>
 <p><strong>演讲者</strong> 赫伯特·西蒙 卡内基·梅隆大学计算机科学与心理学教授</p>
@@ -498,26 +515,6 @@ Baltimore, MD: Johns Hopkins University Press. 1971: 37–52
 <li>乔尔·摩西斯，“符号积分”，MAC-TR 47（论文），项目MAC，麻省理工学院，AD662666，1967年12月。</li>
 <li>尼古拉斯·约翰逊，“沉默的屏幕”，《电视指南》，1969年7月5日，第6-13页。</li>
 </ol>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>写作</title>
-      <link>https://guaniunotes.github.io/posts/2023-02-13/</link>
-      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/2023-02-13/</guid>
-      <description>记住今天要写作。 写作是一个有意识的自我创造的机会。</description>
-      <atom:encoded><![CDATA[<p>记住今天要写作。</p>
-<p>写作是一个有意识的自我创造的机会。</p>
-]]></atom:encoded>
-    </item>
-    <item>
-      <title>同类</title>
-      <link>https://guaniunotes.github.io/posts/2023-01-12/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://guaniunotes.github.io/posts/2023-01-12/</guid>
-      <description>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人</description>
-      <atom:encoded><![CDATA[<p>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人。</p>
-<p>反过来看，我喜欢的内容，一定会在某个地方有同类人喜欢。</p>
 ]]></atom:encoded>
     </item>
   </channel>

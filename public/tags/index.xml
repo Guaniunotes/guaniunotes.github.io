@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shiuan</title>
+    <title>Tags on 蜗牛笔记</title>
     <link>https://guaniunotes.github.io/tags/</link>
-    <description>Recent content in Tags on Shiuan</description>
+    <description>Recent content in Tags on 蜗牛笔记</description>
     <image>
-      <title>Shiuan</title>
+      <title>蜗牛笔记</title>
       <url>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://guaniunotes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 Mar 2024 09:01:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 14:56:18 +0800</lastBuildDate>
     <atom:link href="https://guaniunotes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remote</title>
+      <link>https://guaniunotes.github.io/tags/remote/</link>
+      <pubDate>Sat, 29 Jun 2024 14:56:18 +0800</pubDate>
+      <guid>https://guaniunotes.github.io/tags/remote/</guid>
+      <description></description>
+      <atom:encoded><![CDATA[]]></atom:encoded>
+    </item>
     <item>
       <title>Design</title>
       <link>https://guaniunotes.github.io/tags/design/</link>
@@ -106,6 +114,14 @@
       <link>https://guaniunotes.github.io/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://guaniunotes.github.io/tags/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+      <atom:encoded><![CDATA[]]></atom:encoded>
+    </item>
+    <item>
+      <title>赫伯特·西蒙</title>
+      <link>https://guaniunotes.github.io/tags/%E8%B5%AB%E4%BC%AF%E7%89%B9%E8%A5%BF%E8%92%99/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://guaniunotes.github.io/tags/%E8%B5%AB%E4%BC%AF%E7%89%B9%E8%A5%BF%E8%92%99/</guid>
       <description></description>
       <atom:encoded><![CDATA[]]></atom:encoded>
     </item>
