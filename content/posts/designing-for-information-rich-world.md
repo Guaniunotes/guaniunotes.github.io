@@ -1,17 +1,18 @@
 ---
-title: "给信息丰富的世界设计组织(中文)"
+title: "给信息丰富的世界设计组织"
 date: "2024-01-04"
 description: "在一个信息丰富的世界中，信息的丰富意味着缺乏其他东西：信息消费的任何东西的稀缺。信息消耗的东西是相当明显的：它消耗了接收者的注意力。因此，丰富的信息造成了注意力的匮乏，需要将这种注意力有效地分配给可能消耗信息的过多信息来源。"
-tags: ["司马贺","注意力经济"]
+tags: ["司马贺","注意力经济","赫伯特·西蒙"]
 series: ["Paper"]
 ShowToc: true
 TocOpen: true
+author: Herbert A. Simon
 ---
 ## 引言
 
 >此论文收录于：M. Greenberger（编辑）中，计算机，通信和公共利益。Balt1-more，MD：约翰霍普金斯出版社，1971年。
 Baltimore, MD: Johns Hopkins University Press. 1971: 37–52 
->作者：赫伯特·西蒙 Simon, Herbert A.
+>作者：赫伯特·西蒙 Herbert A. Simon.
 
 （1969年9月至1970年5月约翰霍普金斯大学和布鲁金斯学会在华盛顿联合举办了一系列专题讨论会）
 

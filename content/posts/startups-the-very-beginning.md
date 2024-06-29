@@ -3,6 +3,7 @@ title: 'YC联合创始人对初创公司在早期阶段的建议'
 date: 2024-01-08T21:34:13+08:00
 description: 创始人最重要的3个品质分别为决心、领域专业知识、销售能力
 tags: ["startup","YC"]
+author: Jessica Livingston
 ---
 这是Y Combinator联合创始人**Jessica Livingston**(杰西卡·利文斯顿)，在2020年面向女性的未来创始人大会上演讲内容的一些总结。[原文链接](https://foundersatwork.posthaven.com/startups-the-very-beginning)
 
