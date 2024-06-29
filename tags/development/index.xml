@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Shiuan Knows</title>
+    <link>https://www.shiuan.xyz/tags/development/</link>
+    <description>Recent content in development on Shiuan Knows</description>
+    <image>
+      <title>Shiuan Knows</title>
+      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.shiuan.xyz/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github连接失败的解决方法之 SSH身份验证</title>
+      <link>https://www.shiuan.xyz/posts/git_ssh/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.shiuan.xyz/posts/git_ssh/</guid>
+      <description>最近在本地提交更新时，总是遇到github连接超时的提示。先以为是网络问题，于是在各种时间段去连接，发现都没用，依旧连接超时。
+于是，想试试 GitHub 访问权限是否正常:
+输入 git fetch，返回
+git@github.com: Permission denied (publickey). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.
+说明Git在尝试使用 SSH 密钥进行身份验证时遇到了权限问题。
+检查本地SSH密钥的步骤： 确认 SSH 密钥存在: 确保你的 SSH 密钥存在于默认的 SSH 密钥路径中。默认情况下，SSH 密钥文件为 ~/.ssh/id_rsa（私钥）和 ~/.ssh/id_rsa.pub（公钥）。
+使用以下命令检查 SSH 密钥文件：
+ls -al ~/.ssh 添加 SSH 密钥到 SSH Agent: 如果你的 SSH 密钥存在但尚未添加到 SSH Agent，请使用以下命令添加： ssh-add ~/.ssh/id_rsa 验证 SSH 密钥: 使用以下命令测试 SSH 密钥是否正常工作。替换 为你的私钥文件路径。 ssh -T -i &amp;lt;your-key&amp;gt; git@github.</description>
+      <atom:encoded><![CDATA[<p>最近在本地提交更新时，总是遇到github连接超时的提示。先以为是网络问题，于是在各种时间段去连接，发现都没用，依旧连接超时。</p>
+<p>于是，想试试 GitHub 访问权限是否正常:</p>
+<p>输入 git fetch，返回</p>
+<blockquote>
+<p><a href="mailto:git@github.com">git@github.com</a>: Permission denied (publickey).
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.</p>
+</blockquote>
+<p>说明Git在尝试使用 SSH 密钥进行身份验证时遇到了权限问题。</p>
+<h2 id="检查本地ssh密钥的步骤">检查本地SSH密钥的步骤：</h2>
+<ol>
+<li>确认 SSH 密钥存在:</li>
+</ol>
+<ul>
+<li>
+<p>确保你的 SSH 密钥存在于默认的 SSH 密钥路径中。默认情况下，SSH 密钥文件为 ~/.ssh/id_rsa（私钥）和 ~/.ssh/id_rsa.pub（公钥）。</p>
+</li>
+<li>
+<p>使用以下命令检查 SSH 密钥文件：</p>
+</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ls -al ~/.ssh
+</span></span></code></pre></div><ol start="2">
+<li>添加 SSH 密钥到 SSH Agent:</li>
+</ol>
+<ul>
+<li>如果你的 SSH 密钥存在但尚未添加到 SSH Agent，请使用以下命令添加：</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh-add ~/.ssh/id_rsa
+</span></span></code></pre></div><ol start="3">
+<li>验证 SSH 密钥:</li>
+</ol>
+<ul>
+<li>使用以下命令测试 SSH 密钥是否正常工作。替换 <!-- raw HTML omitted --> 为你的私钥文件路径。</li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh -T -i &lt;your-key&gt; git@github.com
+</span></span></code></pre></div><p>如果一切正常，你应该收到一条消息，表示你已经成功连接到 GitHub。</p>
+<ol start="4">
+<li>检查 GitHub 上的 SSH 密钥:</li>
+</ol>
+<ul>
+<li>确保你的 SSH 密钥已添加到你的 GitHub 帐户。在 GitHub 上，导航到 &ldquo;Settings&rdquo; -&gt; &ldquo;SSH and GPG keys&rdquo;，确保你的公钥正确添加。</li>
+</ul>
+<p>以上是本地存在ssh文件的前提下的做法。但我在试过上诉方法后，没有找到本地密钥文件，只有一个 known_hosts 文件，并没有列出私钥（id_rsa）和公钥（id_rsa.pub）文件。此时，需要按照以下步骤在本地生成密钥。</p>
+<h2 id="本地生成密钥的步骤">本地生成密钥的步骤</h2>
+<ol>
+<li>生成 SSH 密钥对:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh-keygen -t rsa -b <span class="m">4096</span> -C <span class="s2">&#34;your_email@example.com&#34;</span>
+</span></span></code></pre></div><ul>
+<li>这将在 ~/.ssh/ 目录下生成私钥文件 id_rsa 和公钥文件 id_rsa.pub。(遇到提示直接按回车键，表示全部放在默认路径下。)</li>
+</ul>
+<ol start="2">
+<li>将 SSH 密钥添加到 SSH Agent:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh-add ~/.ssh/id_rsa
+</span></span></code></pre></div><ol start="3">
+<li>再次测试 SSH 连接:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ssh -T -i ~/.ssh/id_rsa git@github.com
+</span></span></code></pre></div><p>这时会成功连接到 GitHub。</p>
+<ol start="4">
+<li>更新 GitHub 帐户中的 SSH 密钥:</li>
+</ol>
+<ul>
+<li>将新生成的公钥（~/.ssh/id_rsa.pub 文件的内容）添加到你的 GitHub 帐户中。可以在 GitHub 设置中的 &ldquo;SSH and GPG keys&rdquo; 部分进行添加。</li>
+</ul>
+<ol start="5">
+<li>在完成上述步骤后，尝试再次运行 git fetch 来获取远程更改。</li>
+</ol>
+<p>此时问题解决了，可以正常连接到github，进行更新提交。</p>
+]]></atom:encoded>
+    </item>
+  </channel>
+</rss>

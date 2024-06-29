@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>think on Shiuan Knows</title>
+    <link>https://www.shiuan.xyz/tags/think/</link>
+    <description>Recent content in think on Shiuan Knows</description>
+    <image>
+      <title>Shiuan Knows</title>
+      <url>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.shiuan.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.shiuan.xyz/tags/think/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>写作</title>
+      <link>https://www.shiuan.xyz/posts/2023-02-13/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.shiuan.xyz/posts/2023-02-13/</guid>
+      <description>记住今天要写作。 写作是一个有意识的自我创造的机会。</description>
+      <atom:encoded><![CDATA[<p>记住今天要写作。</p>
+<p>写作是一个有意识的自我创造的机会。</p>
+]]></atom:encoded>
+    </item>
+    <item>
+      <title>同类</title>
+      <link>https://www.shiuan.xyz/posts/2023-01-12/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.shiuan.xyz/posts/2023-01-12/</guid>
+      <description>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人</description>
+      <atom:encoded><![CDATA[<p>如果我们能被同一种内容吸引，说明在某些地方我们是同一类人。</p>
+<p>反过来看，我喜欢的内容，一定会在某个地方有同类人喜欢。</p>
+]]></atom:encoded>
+    </item>
+  </channel>
+</rss>
