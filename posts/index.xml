@@ -19,7 +19,7 @@
       <pubDate>Mon, 01 Jul 2024 20:28:52 +0800</pubDate>
       <guid>https://guaniunotes.github.io/posts/build-nextjs-app-vps/</guid>
       <description>一般大家部署Next.js项目会直接用vercel的服务，毕竟它一键部署，方便且迅速，什么配置都不用操心。但是，除了使用vercel的平台，</description>
-      <atom:encoded><![CDATA[<p>一般大家部署Next.js项目会直接用vercel的服务，毕竟它一键部署，方便且迅速，什么配置都不用操心。但是，除了使用vercel的平台，我们也可以购买通过购买虚拟专用服务器（VPS）自行部署Next.js项目。下面分享一下在VPS上部署Next.js项目的方法。</p>
+      <atom:encoded><![CDATA[<p>一般大家部署Next.js项目会直接用vercel的服务，毕竟它一键部署，方便且迅速，什么配置都不用操心。但是，除了使用vercel的平台，我们也可以通过虚拟专用服务器（VPS）自行部署Next.js项目。下面分享一下在VPS上部署Next.js项目的方法。</p>
 <h2 id="1-vps基础配置">1. VPS基础配置</h2>
 <ol>
 <li>
