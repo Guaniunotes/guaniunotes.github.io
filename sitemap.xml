@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guaniunotes.github.io/tags/nextjs/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/posts/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/tags/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/tags/tutorials/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/posts/build-nextjs-app-vps/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/</loc>
+    <lastmod>2024-07-01T20:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/tags/paul-graham/</loc>
+    <lastmod>2024-07-01T16:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/tags/reading/</loc>
+    <lastmod>2024-07-01T16:28:52+08:00</lastmod>
+  </url><url>
+    <loc>https://guaniunotes.github.io/posts/hackers-and-painters/</loc>
+    <lastmod>2024-07-01T16:28:52+08:00</lastmod>
+  </url><url>
     <loc>https://guaniunotes.github.io/posts/tips_for_working_with_remote_clients/</loc>
     <lastmod>2024-06-29T14:56:18+08:00</lastmod>
   </url><url>
-    <loc>https://guaniunotes.github.io/posts/</loc>
-    <lastmod>2024-06-29T14:56:18+08:00</lastmod>
-  </url><url>
     <loc>https://guaniunotes.github.io/tags/remote/</loc>
-    <lastmod>2024-06-29T14:56:18+08:00</lastmod>
-  </url><url>
-    <loc>https://guaniunotes.github.io/tags/</loc>
-    <lastmod>2024-06-29T14:56:18+08:00</lastmod>
-  </url><url>
-    <loc>https://guaniunotes.github.io/</loc>
     <lastmod>2024-06-29T14:56:18+08:00</lastmod>
   </url><url>
     <loc>https://guaniunotes.github.io/tags/design/</loc>
@@ -50,9 +68,6 @@
     <loc>https://guaniunotes.github.io/posts/papermod-wordcount/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://guaniunotes.github.io/tags/tutorials/</loc>
-    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://guaniunotes.github.io/tags/startup/</loc>
     <lastmod>2024-01-08T21:34:13+08:00</lastmod>
   </url><url>
@@ -65,6 +80,9 @@
     <loc>https://guaniunotes.github.io/about/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://guaniunotes.github.io/tags/herbert-a.-simon/</loc>
+    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://guaniunotes.github.io/tags/%E5%8F%B8%E9%A9%AC%E8%B4%BA/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,9 +90,6 @@
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guaniunotes.github.io/posts/designing-for-information-rich-world/</loc>
-    <lastmod>2024-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://guaniunotes.github.io/tags/%E8%B5%AB%E4%BC%AF%E7%89%B9%E8%A5%BF%E8%92%99/</loc>
     <lastmod>2024-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guaniunotes.github.io/archives/</loc>
